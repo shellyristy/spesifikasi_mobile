@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "766422064173",
+    "project_id": "auth-firebase-7030a",
+    "storage_bucket": "auth-firebase-7030a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766422064173:android:917e2dd9755217b7312ca4",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766422064173-4vcp1j9qqlckn1bm1ndvbns2rpas66db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlX9qiurhI-1FlGH0jyX4C20KIHvpmnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766422064173-4vcp1j9qqlckn1bm1ndvbns2rpas66db.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766422064173-omdfkjnicsebc7jnl960m9l2chru0nt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
